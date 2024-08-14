@@ -1,0 +1,61 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Azure Storage Cache Backup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-14 21:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: azure-storage-cache-backup"
+
+#. Description of the plugin
+msgid ""
+"A simple plugin to backup /wp-content/cache/ folder and subfolders in Azure "
+"Storage service and serve files from there."
+msgstr ""
+
+#. Name of the plugin
+#: admin-storage-cache-backup.php:16 admin-storage-cache-backup.php:17
+#: admin-storage-cache-backup.php:30
+msgid "Azure Storage Cache Backup"
+msgstr ""
+
+#: admin-storage-cache-backup.php:62
+msgid "Azure Storage Settings"
+msgstr ""
+
+#: admin-storage-cache-backup.php:47
+msgid "Clear"
+msgstr ""
+
+#: admin-storage-cache-backup.php:85
+msgid "Container Name"
+msgstr ""
+
+#: admin-storage-cache-backup.php:44
+msgid "Debug Log"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://luizreimann.dev"
+msgstr ""
+
+#. Author of the plugin
+msgid "Luiz Reimann"
+msgstr ""
+
+#: admin-storage-cache-backup.php:77
+msgid "Storage Account Key"
+msgstr ""
+
+#: admin-storage-cache-backup.php:69
+msgid "Storage Account Name"
+msgstr ""
