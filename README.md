@@ -1,6 +1,6 @@
 # Plugin Azure Storage Cache Backup
 
-Este plugin para WordPress permite que você faça backup do cache do seu site no Azure Storage. Ele é fácil de configurar e oferece uma maneira segura de armazenar os dados de cache na nuvem.
+Este plugin para WordPress permite que você faça backup do cache do seu site no Azure Storage, sendo assim um facilitador para utilização de construtores de página como Elementor e outros pluigins mesmo em soluções de infraestrutura baseados em Docker. Ele é fácil de configurar e oferece uma maneira segura de armazenar os dados de cache na nuvem.
 
 ## Funcionalidades
 
